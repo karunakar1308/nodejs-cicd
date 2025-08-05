@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: your-docker-username/nodejs-cicd-demo
+      IMAGE_NAME: kbandaru9/nodejs-cicd-demo
       TAG: latest
 
     steps:
